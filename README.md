@@ -1,5 +1,6 @@
 # InsertSortCounter
 
+USED FOR PROBLEM 6.b on exam 1
 
 Created an insertion sort algorithm with a counter in the while loop. 
 The for loop will be run n amount of times regardless of the input. 
